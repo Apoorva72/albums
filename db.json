@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Dr. Steve Turcotte",
+      "id": 4
+    },
+    {
+      "name": "Mrs. Russell Hermann Jr.",
+      "id": 5
+    },
+    {
+      "name": "Roderick Mayert",
+      "id": 6
+    },
+    {
+      "name": "Rosa Huel",
+      "id": 7
+    },
+    {
+      "name": "Ms. Melba Mosciski",
+      "id": 8
+    },
+    {
+      "name": "Ms. Raquel Haag",
+      "id": 9
+    },
+    {
+      "name": "Ernesto Zboncak",
+      "id": 10
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Oriental Rubber Chair",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Generic Wooden Pants",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Steel Shoes",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Fresh Pants",
+      "id": 19
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87263",
+      "id": 3
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=12363",
+      "id": 4
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=58235",
+      "id": 5
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=83329",
+      "id": 6
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94921",
+      "id": 7
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=27186",
+      "id": 8
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=28836",
+      "id": 9
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=72622",
+      "id": 10
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=72269",
+      "id": 11
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=26438",
+      "id": 12
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=70445",
+      "id": 13
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=20137",
+      "id": 14
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=98478",
+      "id": 15
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=53693",
+      "id": 16
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7867",
+      "id": 17
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=18417",
+      "id": 18
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=24670",
+      "id": 19
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=9401",
+      "id": 20
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94188",
+      "id": 21
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=64872",
+      "id": 22
+    }
+  ]
+}
